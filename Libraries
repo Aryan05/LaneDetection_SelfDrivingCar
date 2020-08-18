@@ -1,0 +1,11 @@
+ * Python 
+* OpenCV 
+* NumPy
+* Matplotlib (for visualisations and reading images)
+* Scikit-Learn
+* Scikit-Image
+* MoviePy (to process video files)
+* Pickle (for storing the camera calibration matrix and distortion coefficients)
+
+This project is Made in JypyterNotebook and Atom
+It can easily be runed on Windiws, macOS, Linux
