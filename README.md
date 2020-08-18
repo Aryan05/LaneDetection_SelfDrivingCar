@@ -132,4 +132,4 @@ This was a very tedious project which involved the tuning of several parameters 
 In coming weaks i will try to implement a Deeplearning Computer Vision method to implement Lane Detection and image segmentation using Mask-CNN and im also currently working in a SelfDriving Car Research project.
 
 ## Made by- Aryan Karn 
-            MNNIT Allahabad
+            
